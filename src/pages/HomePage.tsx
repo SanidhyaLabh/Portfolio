@@ -20,7 +20,7 @@ const HomePage: React.FC = () => {
             <h2 className="text-3xl font-heading text-electric-blue mb-6">About The Cosmic Coder</h2>
             <div className="h-1 w-24 bg-neon-pink mx-auto mb-8"></div>
             <p className="text-lg text-gray-300 mb-6">
-              Hi, I'm Sanidhya Labh, a CSE freshman passionate about Frontend Development and Robotics.
+              Hi, I'm Sanidhya Labh, a CSE sophomore passionate about Frontend Development and Robotics.
               My mission is to build interfaces that are not only visually stunning but also intuitive and accessible.
             </p>
             <p className="text-lg text-gray-300">
