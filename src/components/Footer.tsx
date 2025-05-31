@@ -8,13 +8,13 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="font-heading text-sm text-electric-blue">
-              Made with <span className="text-neon-pink">🤖</span> bolts and <span className="text-neon-pink">&lt;/&gt;</span> tags
+              Made with <span className="text-neon-pink">🤖</span> Enthusiasm and <span className="text-neon-pink">&lt;/&gt;</span> Creativity
             </p>
           </div>
           
           <div className="flex space-x-4 items-center">
             <a 
-              href="https://github.com" 
+              href="https://github.com/SanidhyaLabh" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-electric-blue hover:text-neon-pink transition-colors duration-300"
@@ -43,7 +43,7 @@ const Footer = () => {
         
         <div className="mt-6 pt-6 border-t border-electric-blue border-opacity-20 text-center">
           <p className="text-sm text-gray-400">
-            &copy; {new Date().getFullYear()} Sanidhya Labh | Cosmic Code Garage
+            &copy; {new Date().getFullYear()} Sanidhya Labh 
           </p>
         </div>
       </div>
