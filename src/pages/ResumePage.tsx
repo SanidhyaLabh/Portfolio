@@ -20,7 +20,7 @@ const ResumePage: React.FC = () => {
             </p>
             
             <a 
-              href="/resume.pdf" 
+              href="/sanidhyalabh_resume.pdf" 
               className="btn btn-primary mt-6 inline-flex items-center"
               download
             >
