@@ -35,7 +35,7 @@ const HeroSection: React.FC = () => {
             <div className="h-1 w-32 bg-neon-pink mb-6 mx-auto lg:mx-0"></div>
             
             <p className="text-xl text-gray-300 mb-4">
-              CSE Undergraduate
+              CSE Sophomore
             </p>
             
             <p className="text-xl text-gray-300 mb-8">
