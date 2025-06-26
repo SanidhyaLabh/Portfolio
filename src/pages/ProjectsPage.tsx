@@ -15,7 +15,7 @@ const ProjectsPage: React.FC = () => {
     {
       title: "AR Video Game - The Last Call",
       description: "Created a 3D character model using Blender and designed the user interface for a game application, ensuring a cohesive visual experience and intuitive user interaction.",
-      image: "https://images.pexels.com/photos/7915357/pexels-photo-7915357.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://i.postimg.cc/g0x1Z3nP/Untitled-design.png",
       tags: ["Blender", "3D Design", "UI/UX", "Game Dev", "AR"],
 
     },
@@ -24,12 +24,12 @@ const ProjectsPage: React.FC = () => {
       description: "Designing an exoskeleton system aimed at assisting rehabilitation and physiotherapy using a combination of AI and basic robotics. Currently in progress.",
       image: "https://i.postimg.cc/15kQVpFg/Screenshot-2025-05-31-123214.png",
       tags: ["Robotics", "AI", "Healthcare", "Python", "In Progress"],
-      githubLink: "https://github.com"
+     
     },
     {
       title: "ArthAI",
       description: "ArthAI is a hyper-localized financial copilot that provides AI-powered money advice in Hindi, Tamil, Marathi & more. It helps with budgeting, taxes, loans, investments, and credit scores—tailored for Indian users.",
-      image: "https://ibb.co/Ps6ZdKrR",
+      image: "https://i.postimg.cc/bwcP8CJ2/Screenshot-2025-06-26-162946.png",
       tags: ["Fintech","AI ChatBot","FinancialLiteracy"],
       liveLink: "https://rococo-lily-f33e19.netlify.app/"
     }
