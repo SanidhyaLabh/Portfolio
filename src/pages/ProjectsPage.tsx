@@ -26,6 +26,13 @@ const ProjectsPage: React.FC = () => {
       image: "https://i.postimg.cc/15kQVpFg/Screenshot-2025-05-31-123214.png",
       tags: ["Robotics", "AI", "Healthcare", "Python", "In Progress"],
       githubLink: "https://github.com"
+    },
+    {
+      title: "ArthAI",
+      description: "ArthAI is a hyper-localized financial copilot that provides AI-powered money advice in Hindi, Tamil, Marathi & more. It helps with budgeting, taxes, loans, investments, and credit scores—tailored for Indian users.",
+      image: "https://i.postimg.cc/15kQVpFg/Screenshot-2025-05-31-123214.png",
+      tags: ["Robotics", "AI", "Healthcare", "Python", "In Progress"],
+      Link: "https://rococo-lily-f33e19.netlify.app/"
     }
   ];
 
