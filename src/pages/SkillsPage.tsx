@@ -146,10 +146,11 @@ const SkillsPage: React.FC = () => {
             
             <div className="space-y-4">
               {[
-                { name: "Figma", level: 90 },
-                { name: "Canva", level: 95 },
-                { name: "Python", level: 85 },
-                { name: "C++", level: 80 },
+                { name: "Figma", level: 80 },
+                { name: "C", level: 30 },
+                { name: "Python", level: 55 },
+                { name: "C++", level: 35 },
+                { name: "Machine Learning", level: 30 },
                 { name: "Blender", level: 70 }
               ].map((skill, index) => (
                 <div key={index} className="space-y-2">
