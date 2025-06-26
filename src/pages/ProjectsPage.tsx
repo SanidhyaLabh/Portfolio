@@ -9,16 +9,15 @@ const ProjectsPage: React.FC = () => {
       description: "A web application aimed at promoting inclusive and accessible reading experiences for Dyslexic patients. Designed the user-friendly front end using HTML, CSS, and Figma for intuitive and responsive interface design.",
       image: "https://i.postimg.cc/Cx8wcv0H/1212-2.jpg",
       tags: ["HTML", "CSS", "Figma", "Accessibility", "UX Design"],
-      githubLink: "https://github.com",
-      liveLink: "https://example.com"
+      githubLink: "https://github.com/SanidhyaLabh/lexiread.git",
+
     },
     {
       title: "AR Video Game - The Last Call",
       description: "Created a 3D character model using Blender and designed the user interface for a game application, ensuring a cohesive visual experience and intuitive user interaction.",
       image: "https://images.pexels.com/photos/7915357/pexels-photo-7915357.jpeg?auto=compress&cs=tinysrgb&w=800",
       tags: ["Blender", "3D Design", "UI/UX", "Game Dev", "AR"],
-      githubLink: "https://github.com",
-      liveLink: "https://example.com"
+
     },
     {
       title: "AI-Powered Exoskeleton",
@@ -30,9 +29,9 @@ const ProjectsPage: React.FC = () => {
     {
       title: "ArthAI",
       description: "ArthAI is a hyper-localized financial copilot that provides AI-powered money advice in Hindi, Tamil, Marathi & more. It helps with budgeting, taxes, loans, investments, and credit scores—tailored for Indian users.",
-      image: "https://i.postimg.cc/15kQVpFg/Screenshot-2025-05-31-123214.png",
-      tags: ["Robotics", "AI", "Healthcare", "Python", "In Progress"],
-      githubLink: "https://rococo-lily-f33e19.netlify.app/"
+      image: "https://ibb.co/Ps6ZdKrR",
+      tags: ["Fintech","AI ChatBot","FinancialLiteracy"],
+      liveLink: "https://rococo-lily-f33e19.netlify.app/"
     }
   ];
 
