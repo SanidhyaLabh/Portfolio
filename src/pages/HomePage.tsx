@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
       <section className="py-20 relative">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center mb-16">
-            <h2 className="text-3xl font-heading text-electric-blue mb-6">About The Cosmic Coder</h2>
+            <h2 className="text-3xl font-heading text-electric-blue mb-6">About Me!</h2>
             <div className="h-1 w-24 bg-neon-pink mx-auto mb-8"></div>
             <p className="text-lg text-gray-300 mb-6">
               Hi, I'm Sanidhya Labh, a CSE sophomore passionate about Frontend Development and Robotics.
@@ -47,8 +47,8 @@ const HomePage: React.FC = () => {
               },
               {
                 icon: <Lightbulb className="text-electric-blue" size={36} />,
-                title: "IoT Solutions",
-                description: "Connecting devices to create smart, integrated systems"
+                title: "Machine Learning",
+                description: "Training the models to make them think!"
               }
             ].map((item, index) => (
               <motion.div
@@ -82,7 +82,7 @@ const HomePage: React.FC = () => {
             <h2 className="text-3xl font-heading text-electric-blue mb-6">Featured Projects</h2>
             <div className="h-1 w-24 bg-neon-pink mx-auto mb-8"></div>
             <p className="text-lg text-gray-300">
-              Check out some of my recent work from the Cosmic Code Garage
+              Check out some of my recent work from the Projects page
             </p>
           </div>
           
