@@ -70,14 +70,21 @@ const ResumePage: React.FC = () => {
             </div>
             
             <div className="space-y-8">
-              {[
-                {
+              {[{
                   title: "Core Team Member",
                   company: "TAM-VIT",
                   period: "03/2025 - Present",
                   description: [
                     "Active member of the AI-ML Club at VIT Vellore, engaged in cutting-edge artificial intelligence and machine learning projects",
                     "Contributed to UI/UX design using tools like Figma and Canva for project prototyping and interface development"
+                  ]
+                },
+                {
+                  title: "Intern",
+                  company: "CollaBro",
+                  period: "06/2025 - Present",
+                  description: [
+                    "Contributing to UI/UX design using tools like Figma for project prototyping and interface development"
                   ]
                 },
                 {
