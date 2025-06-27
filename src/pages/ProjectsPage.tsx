@@ -12,6 +12,20 @@ const ProjectsPage: React.FC = () => {
       githubLink: "https://github.com/SanidhyaLabh/lexiread.git",
 
     },
+      {
+      title: "OptiNeuro",
+      description: "built a comprehensive cognitive performance platform that combines AI agents, neural pattern analysis, and real-time optimization to enhance productivity and well-being.",
+      image: "https://i.postimg.cc/Nj4602Q7/Screenshot-2025-06-27-111111.png",
+      tags: ["AI","MachineLearning", "Productivity" ,"CognitiveScience", "NeuralNetwork"],
+      liveLink: "https://optineuro.netlify.app/"
+    },
+     {
+      title: "ArthAI",
+      description: "ArthAI is a hyper-localized financial copilot that provides AI-powered money advice in Hindi, Tamil, Marathi & more. It helps with budgeting, taxes, loans, investments, and credit scores—tailored for Indian users.",
+      image: "https://i.postimg.cc/bwcP8CJ2/Screenshot-2025-06-26-162946.png",
+      tags: ["Fintech","AI ChatBot","FinancialLiteracy"],
+      liveLink: "https://rococo-lily-f33e19.netlify.app/"
+    },
     {
       title: "AR Video Game - The Last Call",
       description: "Created a 3D character model using Blender and designed the user interface for a game application, ensuring a cohesive visual experience and intuitive user interaction.",
@@ -24,14 +38,7 @@ const ProjectsPage: React.FC = () => {
       description: "Designing an exoskeleton system aimed at assisting rehabilitation and physiotherapy using a combination of AI and basic robotics. Currently in progress.",
       image: "https://i.postimg.cc/15kQVpFg/Screenshot-2025-05-31-123214.png",
       tags: ["Robotics", "AI", "Healthcare", "Python", "In Progress"],
-     
-    },
-    {
-      title: "ArthAI",
-      description: "ArthAI is a hyper-localized financial copilot that provides AI-powered money advice in Hindi, Tamil, Marathi & more. It helps with budgeting, taxes, loans, investments, and credit scores—tailored for Indian users.",
-      image: "https://i.postimg.cc/bwcP8CJ2/Screenshot-2025-06-26-162946.png",
-      tags: ["Fintech","AI ChatBot","FinancialLiteracy"],
-      liveLink: "https://rococo-lily-f33e19.netlify.app/"
+    
     }
   ];
 
