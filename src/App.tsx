@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 import RobotAssistant from './components/RobotAssistant';
 import KonamiCodeDetector from './components/KonamiCodeDetector';
 import BackgroundStars from './components/BackgroundStars';
+import BackgroundMusic from './components/BackgroundMusic';
 
 // Pages
 import HomePage from './pages/HomePage';
@@ -33,6 +34,7 @@ function App() {
     <ThemeProvider>
       <div className="min-h-screen flex flex-col">
         <BackgroundStars />
+        <BackgroundMusic />
         <Navbar />
         
         <main className="flex-grow">
